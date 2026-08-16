@@ -1,7 +1,8 @@
 package com.gilmar.usuario.infrastructure.repository;
 
 
-import com.gilmarborges.usuario.infrastructure.entity.Endereco;
+
+import com.gilmar.usuario.infrastructure.entity.Endereco;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
